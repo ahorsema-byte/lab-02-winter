@@ -2,16 +2,16 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Anica Horseman
+- **CCID:** ahorsema
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+For text input:
+https://developer.android.com/reference/com/google/android/material/textfield/TextInputLayout#getEditText()
+
+Otherwise autofill options on the android app builder were read through and used.
 
 ## Verbal Collaboration
-
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+N/A
+Completed before lab section
